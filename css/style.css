@@ -137,5 +137,7 @@ font-size: 12px;
 }
 
 .fb-like {
-    float: center;
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
 }
