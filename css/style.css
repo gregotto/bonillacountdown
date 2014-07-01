@@ -144,7 +144,8 @@ font-size: 12px;
 
 #twitter {
     float: right;
-    bottom: 50px;
+    position: fixed;
+    bottom: 30px;
     right: 30px;
     
 }
